@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ListViewAdapterImageDrawable</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="titulos">
+        <item>"Maria di Lida"</item>
+        <item>"Largam da mon"</item>
+        <item>"Mindel D'Novas"</item>
+        <item>"Nha pretinha"</item>
+        <item>"Sabim"</item>
+        <item>"Triste è Sabe"</item>
+        <item>"Nôs Tradison"</item>
+        <item>"Lebam Ku Bo"</item>
+        <item>"Ilha de Santiago"</item>
+        <item>"Strela cadente"</item>
+    </string-array>
+
+    <string-array name="artistas">
+        <item>"Lura"</item>
+        <item>"Jeniffer Soledad"</item>
+        <item>"Ceuzany"</item>
+        <item>"Tito Paris"</item>
+        <item>"Grace Evora"</item>
+        <item>"Dani Santoz"</item>
+        <item>"Dino"</item>
+        <item>"Elida Almeida"</item>
+        <item>"Mayra Andrade"</item>
+        <item>"Jorge Humberto"</item>
+    </string-array>
+
+    <string-array name="Ids">
+        <item>"0"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+        <item>"8"</item>
+        <item>"9"</item>
+    </string-array>
+</resources>
